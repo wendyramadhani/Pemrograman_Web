@@ -9,7 +9,8 @@ web dengan html dan css
 
 
 kalkulator dengan js
-<img width="292" alt="image" src="https://github.com/wendyramadhani/Pemrograman_Web/assets/113156205/18e93b0a-d4a5-4800-b6f8-77744ae87fb9">
+<img width="960" alt="image" src="https://github.com/wendyramadhani/Pemrograman_Web/assets/113156205/8de1a5ca-2789-45e9-914a-0ce4b44f99c8">
+
 
 
 
