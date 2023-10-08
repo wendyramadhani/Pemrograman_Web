@@ -17,4 +17,6 @@ kalkulator dengan js
 tampilan dengan bootstrap
 <img width="960" alt="image" src="https://github.com/wendyramadhani/Pemrograman_Web/assets/113156205/78421545-00ae-4569-8b81-2c231f70653d">
 
+Cuaca Dengan XMLHTTP request
+![image](https://github.com/wendyramadhani/Pemrograman_Web/assets/113156205/512f3524-77cc-40d2-b782-23c827732a21)
 
